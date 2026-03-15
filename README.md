@@ -49,3 +49,5 @@ MPI/
 ├── factorizacion_primos.py   # Código principal
 └── README.md
 ```
+## Link instalacion MPICH
+https://mpitutorial.com/tutorials/installing-mpich2/
